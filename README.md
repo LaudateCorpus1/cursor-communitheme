@@ -1,3 +1,5 @@
+# This repository has been merged into ubuntu/yaru.
+
 # The Community Theme cursor
 
 ----------
